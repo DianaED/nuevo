@@ -1,0 +1,16 @@
+c:\users\envy\documents\visual studio 2015\Projects\Elipser\Elipser\bin\Debug\Elipser.exe.config
+c:\users\envy\documents\visual studio 2015\Projects\Elipser\Elipser\bin\Debug\Elipser.exe
+c:\users\envy\documents\visual studio 2015\Projects\Elipser\Elipser\bin\Debug\Elipser.pdb
+c:\users\envy\documents\visual studio 2015\Projects\Elipser\Elipser\bin\Debug\Elipser.xml
+c:\users\envy\documents\visual studio 2015\Projects\Elipser\Elipser\obj\Debug\Elipser.vbprojResolveAssemblyReference.cache
+c:\users\envy\documents\visual studio 2015\Projects\Elipser\Elipser\obj\Debug\MainWindow.g.vb
+c:\users\envy\documents\visual studio 2015\Projects\Elipser\Elipser\obj\Debug\Application.g.vb
+c:\users\envy\documents\visual studio 2015\Projects\Elipser\Elipser\obj\Debug\Elipser_MarkupCompile.cache
+c:\users\envy\documents\visual studio 2015\Projects\Elipser\Elipser\obj\Debug\Elipser_MarkupCompile.lref
+c:\users\envy\documents\visual studio 2015\Projects\Elipser\Elipser\obj\Debug\MainWindow.baml
+c:\users\envy\documents\visual studio 2015\Projects\Elipser\Elipser\obj\Debug\Elipser.g.resources
+c:\users\envy\documents\visual studio 2015\Projects\Elipser\Elipser\obj\Debug\Elipser.Resources.resources
+c:\users\envy\documents\visual studio 2015\Projects\Elipser\Elipser\obj\Debug\Elipser.vbproj.GenerateResource.Cache
+c:\users\envy\documents\visual studio 2015\Projects\Elipser\Elipser\obj\Debug\Elipser.exe
+c:\users\envy\documents\visual studio 2015\Projects\Elipser\Elipser\obj\Debug\Elipser.xml
+c:\users\envy\documents\visual studio 2015\Projects\Elipser\Elipser\obj\Debug\Elipser.pdb
