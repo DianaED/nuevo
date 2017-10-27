@@ -14,3 +14,7 @@ c:\users\envy\documents\visual studio 2015\Projects\Elipser\Elipser\obj\Debug\El
 c:\users\envy\documents\visual studio 2015\Projects\Elipser\Elipser\obj\Debug\Elipser.exe
 c:\users\envy\documents\visual studio 2015\Projects\Elipser\Elipser\obj\Debug\Elipser.xml
 c:\users\envy\documents\visual studio 2015\Projects\Elipser\Elipser\obj\Debug\Elipser.pdb
+C:\Users\ENVY\Documents\GitHub\nuevo\Elipser\Elipser\bin\Debug\Elipser.exe.config
+C:\Users\ENVY\Documents\GitHub\nuevo\Elipser\Elipser\obj\Debug\Elipser.exe
+C:\Users\ENVY\Documents\GitHub\nuevo\Elipser\Elipser\obj\Debug\Elipser.xml
+C:\Users\ENVY\Documents\GitHub\nuevo\Elipser\Elipser\obj\Debug\Elipser.pdb
